@@ -1,0 +1,5 @@
+# Proyecto para conocer el promedio ponderado
+- El programa te pide el nombre de tu materia, la nota del semestre y los créditos de la materia. Verifica que los datos estén bien y luego hace el promedio ponderado, luego multiplica la nota de la materia con sus créditos y los divide por la cantidad de créditos totales,así calculando tu promedio ponderado
+- El programa te pide sí quieres o no ingresar materias (Debes tener mínimo 1) sí respondes que sí, tienes que poner el nombre de la materia, nota y créditos a medida que te los pregunte, luego te pregunta otra vez sí quieres meter otra materia hasta que le des que no y hace el proceso
+- Para que el programa funcione se nececita python instalado y puedes correr el codigo con este comando `py Promedio_Ponderado.py`
+- aprendí mas sobre las funciones, listas y diccionarios, pude mejorar mi lógica de programacion, aprendí que en un diccionario se pueden meter tuplas y ademas que como ejecutar mejor las funciones y como guardarlas de manera correcta
